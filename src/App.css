@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+.fstyle {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: grey;
+}
+.siteParentDiv {
+    width: 100% !important;
+    background-color: #FCFDFF !important;
+}
+
+.landingDivParentClass {
+    width: 80% !important;
+    height: fit-content !important;
+}
+
+.landingText {
+    margin-top: 20% !important;
+}
+
+.landingLogoClass {
+    margin-top: 15% !important;
+}
+
+.secondDiv {
+    margin-top: 10% !important;
+}
+
+.pClass {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 70% !important;
+}
+
+.thirdDiv {
+    margin-top: 10% !important;
+    margin-bottom: 10% !important;
+    background-color: #F2F5F9;
+}
+
+.forthDiv {
+    width: 100%;
+    background-color: #FCFDFF !important;
+}
+
+.fifthDiv {
+    width: 100% !important;
+    background-color: #F2F5FA !important;
+}
+
+.fDivRowClass {
+    margin-bottom: 8% !important;
+}
+
+.ftr-btn {
+    background: linear-gradient(to right,#DB3662,#FD5355) !important;
+    border-radius: 40px;
+}
+
+.ftr-3 {
+    background-color: #EEF1F6;
+}
+
+.ftr-4 {
+    background-color: #272A2B !important;
+}
+
+.crd-4 {
+    border: solid #d9d9d9 1px;
+    border-radius: 4px;
+    padding: 16px;
+    width: 80%;
+    position: relative;
+}
+
+.crd-4-img {
+    position: absolute;
+    left: -10px;
+    top: -20px;
+}
+
+.spanClass {
+    background-color: #F5F8FB !important;
+    padding: 2%;
+    border-radius: 20px;
+}
